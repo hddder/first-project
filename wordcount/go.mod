@@ -1,4 +1,4 @@
-module github.com/hddder/package
+module github.com/hddder/first-project
 
-go 1.25
+go 1.25.0
 
